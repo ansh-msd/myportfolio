@@ -1,2 +1,2 @@
-# myportfolio
-this is my portfolilo
+# myprotfolio
+Welcome to my portfolio.
